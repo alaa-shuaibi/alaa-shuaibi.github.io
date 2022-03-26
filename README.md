@@ -1,2 +1,2 @@
 # My Personal Website
-URL: https://alaa-shuaibi.github.io/
+Built using HTML, CSS, and JavaScript.
